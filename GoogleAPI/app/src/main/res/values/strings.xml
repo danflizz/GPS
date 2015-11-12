@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyDW7iD2ZQKQ-R8LJFEcCleEyl_TisrkbeI</string>
+    <string name="services_conected">Location services connected</string>
+    <string name="services_suspended">Location services suspended.Please reconnect</string>
+    <string name="services_failed">Location services connection failed with code </string>
+    <string name="title">I am here!</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyGPSLocation</string>
+    <string name="title">Mi ubicación</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="latitud">Latitud: </string>
+    <string name="longitud">Longitud: </string>
+    <string name="lat_no_data">Latitud sin datos</string>
+    <string name="long_no_data">Longitud sin datos</string>
+    <string name="no_data">Sin datos</string>
+    <string name="address">Dirección: </string>
+    <string name="Obtener">Obtener mi ubicación</string>
+    <string name="aviso">Selecciona el recuadro para obtener tu ubicación</string>
+    <string name="enable">GPS activado</string>
+    <string name="disable">GPS desactivado</string>
+</resources>
